@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SineoMVPDemo</string>
+
+    <string name="server_exception">服务器出小差啦，程序员哥哥正在努力</string>
+    <string name="timeout_exception">呃呃，网络信号太差啦，累死宝宝啦</string>
+    <string name="other_exception">有点小问题，请稍后再试</string>
+</resources>
